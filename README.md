@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba del modulo2 del PrepCouse de Henry
+# PrepCouse-Henry
+Este es un repositorio de prueba del modulo 2 del PrepCouse de Henry
